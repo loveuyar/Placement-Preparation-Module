@@ -1,5 +1,5 @@
 # Placement-Preparation-Module
-Prateek Kumar
-2100290109013
+Ashish Raj
+2100290109002
 CSE Sec C
 7th Semester
